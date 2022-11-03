@@ -1,4 +1,4 @@
-<h2> Hey there! I'm João. </h2>
+<h2> Hey there! I'm Pedro. </h2>
 
 <h3> My Skills </h3>
 - Architecting high performing, scalable web applications
